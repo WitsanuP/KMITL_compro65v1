@@ -9,3 +9,5 @@ git push -u origin main
 git remote add origin git@github.com:WitsanuP/KMITL_compro64.git
 git branch -M main
 git push -u origin main
+
+git@github.com:WitsanuP/KMITL_compro64.git
