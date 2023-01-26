@@ -1,4 +1,5 @@
 #include<stdio.h>
+
 int main(){
     char c[100];
     int n=0;
@@ -9,5 +10,4 @@ int main(){
         if(c[i]=='t'&&c[i+1]=='h'&&c[i+2]=='e')n++;
     }
     printf("\"the\" is %d times.",n);
-
 }

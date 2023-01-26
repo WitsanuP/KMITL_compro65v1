@@ -16,8 +16,5 @@ int main(){
     for(int i=1;i<=n;i++){
         ans+=powv(i,n);
     }
-    printf(" %d",ans);
-
-
-
+    printf("The result is %d",ans);
 }
